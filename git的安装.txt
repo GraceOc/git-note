@@ -1,0 +1,13 @@
+(一)安装
+安装Git-2.8.4-64-bit.exe 都点下一步
+检查是否已安装
+  1. cmd => 输入git回车 =>没有错误提示=>安装完成
+  2. 打开任意文件夹 右击存在Git Bush Here和Git Gui Here 图标=>安装完成
+
+
+
+
+说明:
+===shell(了解):  Git归根结底是使用liunx命令 而shell是liunx最原始的命令
+===Git Bush Here:命令行,重点关注和使用
+===Git Gui Here:界面,可以上传本地目录到github(教程:https://www.cnblogs.com/jf-67/p/7086659.html?utm_source=itdadao&utm_medium=referral)
