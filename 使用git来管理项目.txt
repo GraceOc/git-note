@@ -107,7 +107,7 @@
 
          上传提交: git push 远程仓库地址 master(master可以不写)
    
-       D.报错解决: 如果在github创建仓库的时候选择了Initialize this repository with a README(初始化储存库和readme)这一选项时,在仓库中会默认生成一个md文档,所以当push项目的时候会造成版本冲突,此时应先pull仓库后再push项目
+       D.报错解决: 如果在github创建仓库的时候选择了Initialize this repository with a README(初始化储存库和readme)这一选项时,在仓库中会默认生成一个md文档,所以当push项目的时候会造成版本冲突,此时应先pull仓库后add 和 commit 后再push项目
 
 
 
